@@ -59,19 +59,16 @@ body {
 
 /* 10 */
 .section--flx {
-  display: block;
   float: left;
 }
 
 /* 20 */
 .section--flx > .article {
-  display: inline;
   margin-right: 3px;
 }
 
 /* 10 */
 .nav-wrap {
-  display: block;
   float: right;
   width: 13%;
   border-radius: 2px 15px;
