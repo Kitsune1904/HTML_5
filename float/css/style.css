@@ -11,3 +11,10 @@ body {
   font-weight: 400;
   background: #b4b4b4 url("../images/pink-flowers.webp");
 }
+
+/* 10 */
+.header__heading {
+    padding-top: 96px;
+    margin-bottom: 46px;
+    font-size: 2rem;
+  }
