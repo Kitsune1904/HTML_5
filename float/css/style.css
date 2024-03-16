@@ -21,6 +21,17 @@ body {
 }
 
 /* 10 */
+.header__heading,
+/* 10 */
+.article__heading,
+/* 10 */
+.important-main-text,
+/* 20 */
+.nav__link:hover {
+  color: #a11414;
+}
+
+/* 10 */
 .header__heading {
   padding-top: 96px;
   margin-bottom: 46px;
