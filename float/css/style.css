@@ -24,3 +24,16 @@ body {
   font-weight: 700;
   text-transform: uppercase;
 }
+
+/* 10 */
+.header__img-wrap {
+  padding: 14px 13px;
+  border: 1px solid #000;
+  border-radius: 2px;
+  margin-bottom: 57px;
+}
+
+/* 11 */
+.header__img-wrap img {
+  width: 100%;
+}
