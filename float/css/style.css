@@ -100,3 +100,23 @@ body {
 .irrelevant-main-text {
   text-decoration: line-through;
 }
+
+/* 10 */
+.nav__heading {
+  color: #000;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 24px;
+}
+
+/* 10 */
+.nav__link {
+  color: #000;
+  text-decoration: none;
+}
+
+/* 20 */
+.nav__link:hover {
+  font-weight: 700;
+  text-decoration: underline;
+}
