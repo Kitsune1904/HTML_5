@@ -76,4 +76,19 @@ body {
   margin-bottom: 15px;
 }
 
+/* 10 */
+.article__item {
+  color: #1d1b1b;
+  text-indent: 40px;
+  margin-bottom: 31px;
+  line-height: 18.75px;
+}
+
+/* 10 */
+.content-additional {
+  margin-top: 5px;
+  display: block;
+  text-indent: 0;
+}
+
 
