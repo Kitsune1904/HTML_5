@@ -14,7 +14,13 @@ body {
 
 /* 10 */
 .header__heading {
-    padding-top: 96px;
-    margin-bottom: 46px;
-    font-size: 2rem;
-  }
+  padding-top: 96px;
+  margin-bottom: 46px;
+  font-size: 2rem;
+}
+
+/* 10 */
+.header__heading--spec {
+  font-weight: 700;
+  text-transform: uppercase;
+}
