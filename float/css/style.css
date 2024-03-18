@@ -1,9 +1,4 @@
 /* 1 */
-html {
-  font-size: 16px;
-}
-
-/* 1 */
 body {
   font-size: 1rem;
   line-height: 1;
@@ -58,12 +53,15 @@ body {
 }
 
 /* 10 */
-.section--flx {
-  float: left;
+.section--flx::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 /* 20 */
 .section--flx > .article {
+  width: calc(87% - 3px);
   margin-right: 3px;
 }
 
